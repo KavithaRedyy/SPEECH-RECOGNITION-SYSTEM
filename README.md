@@ -36,3 +36,5 @@ Feature Extraction: The model or API extracts relevant features from the audio t
 Transcription: The model outputs text representing the spoken words.
 
 Output: The transcribed text is returned and can be displayed or saved for further use.
+
+<img width="736" height="355" alt="Image" src="https://github.com/user-attachments/assets/a2d05a6e-8c2c-49e3-bb5e-1aaed5977046" />
